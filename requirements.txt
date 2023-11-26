@@ -1,0 +1,6 @@
+pyautogui
+pytesseract
+opencv-python
+mss
+debugpy
+Pillow
